@@ -52,6 +52,7 @@ class AuthMethods {
       _auth.signOut();
     } catch (e) {
       print(e);
+      // new edited file
     }
   }
 }
